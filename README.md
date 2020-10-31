@@ -1,2 +1,5 @@
 # QuickSort-QuickSelect
- Quick Sort and Quick Select utilizing Hoare and Lomuto Partitions
+
+This Program is the implementation of QuickSort and QuickSelect algorithms utilizing Lomuto and Hoare partitions.
+The program takes in a file with numbers, turns them into a vector, and performs the desired function. 
+Test file is input1000_1.txt, which contains 1000 unique integers in random order.
